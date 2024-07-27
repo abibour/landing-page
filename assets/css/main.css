@@ -2227,7 +2227,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #2e3141;
+			background: #643b9F;
 		}
 
 		select:focus::-ms-value {
@@ -2315,7 +2315,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #ffffff;
 			content: '\f00c';
-			color: #2e3141;
+			color: #643b9F;
 		}
 
 		input[type="checkbox"]:focus + label:before,
