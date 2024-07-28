@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #643b9F;
+		background-color: #310672b3;
 		background-image: linear-gradient(to top, rgba(49, 6, 114, 0.7), rgba(49, 6, 114, 0.7)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
@@ -2227,7 +2227,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #643b9F;
+			background: #310672b3;
 		}
 
 		select:focus::-ms-value {
@@ -4070,7 +4070,7 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
+			background-color: #310672b3;
 			background-image: linear-gradient(to top, rgba(49, 6, 114, 0.7), rgba(49, 6, 114, 0.7)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
