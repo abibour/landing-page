@@ -2315,7 +2315,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #ffffff;
 			content: '\f00c';
-			color: #643b9F;
+			color: #310672b3;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -2745,7 +2745,7 @@ input, select, textarea {
 				}
 
 				ul.pagination li > .page.active {
-					background-color: #9560d2;
+					background-color: #310672b3;
 				}
 
 			ul.pagination li:first-child {
@@ -3005,7 +3005,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #353849;
+			background-color: #310672b3;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -3281,7 +3281,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #9560d2;
+			background: #310672b3;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3465,7 +3465,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #310672b3;
 				background-image: linear-gradient(to top, rgba(49, 6, 114, 0.7), rgba(49, 6, 114, 0.7)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
@@ -3577,7 +3577,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			background-color: #310672b3;
 			background-image: linear-gradient(to top, rgba(49, 6, 114, 0.7), rgba(49, 6, 114, 0.7)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
@@ -3625,7 +3625,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		background-color: #310672b3;
 		margin: 6.5em 0;
 		position: relative;
 	}
